@@ -93,14 +93,20 @@ figcaption > a:hover {
   border-radius: 4px;
   width: 900px;
   height: 600px;
+  border-radius: 16px;
 }
 
 footer,
 footer a {
   background-color: rgba(0, 7, 244, 1);
   color: rgb(255, 213, 213);
+  padding-left: 15px;
+  list-style: none;
 
 }
+
+.footer-list { list-style: none;}
+   
 
 h4 {
     font-size: 30px; 
